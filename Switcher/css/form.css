@@ -1,0 +1,11 @@
+.error{
+	color : red;
+}
+
+input:invalid {
+	border-color: red;
+}
+
+.succes{
+	color : green;
+}
